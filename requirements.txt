@@ -1,0 +1,2 @@
+mkdir ai-telegram-bot
+cd ai-telegram-bot
